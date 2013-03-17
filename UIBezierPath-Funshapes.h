@@ -6,6 +6,9 @@
  If any of this is *not* in the public domain, please contact and I'll update
  the repository.
  
+ The cute stuff is by ~hikaridrops on Deviant Art.
+ http://hikaridrops.deviantart.com/art/Kiddy-Stuffs-59984219
+ 
  */
 
 @interface UIBezierPath (Funshapes)
